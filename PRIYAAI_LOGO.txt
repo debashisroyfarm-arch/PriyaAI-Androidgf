@@ -1,0 +1,3 @@
+PriyaAI launcher logo files are in the branding/ folder.
+PriyaAI_logo.png and PriyaAI_logo.svg are provided.
+The logo is ready to be used as the Android launcher icon.

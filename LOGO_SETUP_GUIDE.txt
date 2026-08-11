@@ -1,0 +1,11 @@
+PriyaAI Logo
+=============
+The new PriyaAI logo is included under branding/PriyaAI_logo.png and
+branding/PriyaAI_logo.svg.
+
+For Android Studio, place the PNG into the app's drawable/mipmap resources
+and set android:icon in AndroidManifest.xml to the corresponding mipmap
+resource. Android Studio's Image Asset tool can generate all launcher
+densities from the PNG.
+
+The cloud-build workflow remains included in the project.

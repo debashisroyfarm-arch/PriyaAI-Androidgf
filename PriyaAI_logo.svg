@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<rect x="48" y="48" width="928" height="928" rx="220" fill="#714BBE"/>
+<rect x="220" y="260" width="584" height="420" rx="150" fill="white"/>
+<path d="M610 650h125l-85 130z" fill="white"/>
+<path d="M512 555 390 445V375c0-45 40-80 85-80 37 0 63 20 77 58 14-38 40-58 77-58 45 0 85 35 85 80v70z" fill="#D6367E"/>
+<path d="M740 215l18 50 50 15-50 15-18 55-18-55-50-15 50-15z" fill="#FFE169"/>
+</svg>
